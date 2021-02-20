@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="527.0" prefWidth="633.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="gestion_com.MenuController">
+    <stylesheets>
+        <URL value="@menu.css" />
+    </stylesheets>
+   <children>
+      <AnchorPane layoutY="61.0" prefHeight="466.0" prefWidth="106.0" style="-fx-background-color: #2D3447;" />
+      <BorderPane prefHeight="61.0" prefWidth="633.0" style="-fx-background-color: #2D3447;" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+            <Text fill="GAINSBORO" strokeType="OUTSIDE" strokeWidth="0.0" text="BIENVENUE" BorderPane.alignment="CENTER" />
+         </center>
+         <right>
+            <Text fill="GAINSBORO" strokeType="OUTSIDE" strokeWidth="0.0" text="PROFIL" BorderPane.alignment="CENTER" />
+         </right>
+      </BorderPane>
+   </children>
+</AnchorPane>
