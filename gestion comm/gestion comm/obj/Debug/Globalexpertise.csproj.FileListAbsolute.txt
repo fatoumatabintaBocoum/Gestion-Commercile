@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\bin\Debug\Globalexpertise.exe.config
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\bin\Debug\Globalexpertise.exe
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\bin\Debug\Globalexpertise.pdb
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.Form1.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.Properties.Resources.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.csproj.CopyComplete
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.exe
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.pdb
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.Splash.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.ProductForm.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.CATEGORYForm.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.ClientForm.resources
+C:\Users\HP\source\repos\Globalexpertise\Globalexpertise\obj\Debug\Globalexpertise.VenteForm.resources
